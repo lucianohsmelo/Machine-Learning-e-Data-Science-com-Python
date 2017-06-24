@@ -1,0 +1,15 @@
+Qualitativos:
+	
+	Nominal (ex: Id, nome, sexo)
+		* não existe relação de ordem (operações: = ou !=).
+
+	Ordinal (ex: manchas)
+		* refletem ordem das categorias representadas (operações: =, !=, <, >, <=, >=).
+
+Quantitativos:
+	
+	Intervalar (ex: temp)
+		* números variam em um intervalo (operações: =, !=, <, >, <=, >=, +, -).
+
+	Racional (ex: idade, peso, # Int.)
+		* carregam mais informações, significado  (operações: =, !=, <, >, <=, >=, +, -, *, /).

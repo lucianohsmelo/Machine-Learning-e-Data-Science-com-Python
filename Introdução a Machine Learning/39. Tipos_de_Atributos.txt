@@ -1,0 +1,11 @@
+Qualitativo -> id, nome, sexo, manchas, est.
+	*Operações aritiméticas não são aplicáveis
+
+Quantitativo -> idade, # Int.
+	* Numérico, representa quantidades
+	Quantitativo discreto -> idade, # Int.
+		* representa um número (finito ou infinito) contável de valores
+
+	Quantitativo -> contínuo -> peso, temp
+		* podem assumir um número infinito de valores (resultados de medidas (nº real))
+

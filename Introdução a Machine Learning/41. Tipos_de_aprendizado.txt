@@ -1,0 +1,25 @@
+Preditivas: Encontrar função (modelo ou hipótese) que possa ser utilziada para prever um rótulo ou valor para novos dados. Objetos na forma (entrada, saída)
+
+Ex: prever valor de imóvel, diagnóstico de paciente.
+
+Descritivas: Explorar ou descrever um conjunto de dados. Objetos não possuem saída associada.
+
+Ex: 
+
+
+
+Aprendizado indutivo:
+
+	Supervisionado (Preditivo): Saída de dados (doente/não-doente) é conhecida.
+
+		Classificação: Rótudos discretos (ex: diagnóstico, bom/mau pagador).
+
+		Regressão: Rótulos contínuos (peso, altura).
+
+	Não-Supervisionado (Descritivo):
+
+		Sumarização: Encotrar descrição compacta para dados. (Similaridade)
+
+		Associação: Encontrar padrões frequentes de associações entre atributos.
+
+		Agrupamento: Dados agrupados de acordo com sua similaridade.
